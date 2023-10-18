@@ -1,0 +1,1 @@
+cmd_/mnt/storage_main/Programs/OS/kernel_module_test/modules.order := {   echo /mnt/storage_main/Programs/OS/kernel_module_test/kernel_module.o; :; } > /mnt/storage_main/Programs/OS/kernel_module_test/modules.order

@@ -1,0 +1,1 @@
+cmd_/mnt/storage_main/Programs/OS/kernel_module_test/Module.symvers :=  scripts/mod/modpost -m -a     -o /mnt/storage_main/Programs/OS/kernel_module_test/Module.symvers -T /mnt/storage_main/Programs/OS/kernel_module_test/modules.order -i Module.symvers -e 

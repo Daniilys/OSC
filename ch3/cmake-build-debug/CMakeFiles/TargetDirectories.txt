@@ -1,0 +1,8 @@
+/mnt/storage_main/Programs/OS/ch3/cmake-build-debug/CMakeFiles/project1.dir
+/mnt/storage_main/Programs/OS/ch3/cmake-build-debug/CMakeFiles/ex3-18.dir
+/mnt/storage_main/Programs/OS/ch3/cmake-build-debug/CMakeFiles/ex3-19-pipe.dir
+/mnt/storage_main/Programs/OS/ch3/cmake-build-debug/CMakeFiles/ex3-19-shm.dir
+/mnt/storage_main/Programs/OS/ch3/cmake-build-debug/CMakeFiles/ex3-20.dir
+/mnt/storage_main/Programs/OS/ch3/cmake-build-debug/CMakeFiles/array_cp.dir
+/mnt/storage_main/Programs/OS/ch3/cmake-build-debug/CMakeFiles/edit_cache.dir
+/mnt/storage_main/Programs/OS/ch3/cmake-build-debug/CMakeFiles/rebuild_cache.dir

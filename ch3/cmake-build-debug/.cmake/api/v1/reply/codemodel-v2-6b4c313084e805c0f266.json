@@ -1,0 +1,101 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "ch3",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "array_cp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-array_cp-Debug-ce48758a77a617419f9d.json",
+					"name" : "array_cp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ex3-18::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ex3-18-Debug-83d135e0ec04add25c0e.json",
+					"name" : "ex3-18",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ex3-19-pipe::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ex3-19-pipe-Debug-afbadf0715671850eb4d.json",
+					"name" : "ex3-19-pipe",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ex3-19-shm::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ex3-19-shm-Debug-859f395ba4b771c5ccc5.json",
+					"name" : "ex3-19-shm",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ex3-20::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ex3-20-Debug-bd586355516135488d15.json",
+					"name" : "ex3-20",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "project1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-project1-Debug-6749c03d0d53c85aa9a1.json",
+					"name" : "project1",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/mnt/storage_main/Programs/OS/ch3/cmake-build-debug",
+		"source" : "/mnt/storage_main/Programs/OS/ch3"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

@@ -1,0 +1,1 @@
+cmd_/mnt/storage_main/Programs/OS/kernel_module_test/kernel_module.ko := ld -r -m elf_x86_64 -z noexecstack --build-id=sha1  -T scripts/module.lds -o /mnt/storage_main/Programs/OS/kernel_module_test/kernel_module.ko /mnt/storage_main/Programs/OS/kernel_module_test/kernel_module.o /mnt/storage_main/Programs/OS/kernel_module_test/kernel_module.mod.o;  true

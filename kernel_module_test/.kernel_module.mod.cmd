@@ -1,0 +1,1 @@
+cmd_/mnt/storage_main/Programs/OS/kernel_module_test/kernel_module.mod := printf '%s\n'   kernel_module.o | awk '!x[$$0]++ { print("/mnt/storage_main/Programs/OS/kernel_module_test/"$$0) }' > /mnt/storage_main/Programs/OS/kernel_module_test/kernel_module.mod
